@@ -43,7 +43,7 @@ export default component$(() => {
           onClick$={() => (isPokemonVisible.value = !isPokemonVisible.value)}
           class="btn btn-primary"
         >
-          Mostrar
+          {isPokemonVisible.value ? "Mostrar" : "Ocultar" }
         </buton>
       </div>
     </>
