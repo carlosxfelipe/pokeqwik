@@ -1,7 +1,7 @@
 ## node_modules
 
 ```shell
-yarn start
+yarn install
 ```
 
 ## Start the development server:
