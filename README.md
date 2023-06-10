@@ -1,13 +1,13 @@
 ## node_modules
 
 ```shell
-yarn start # or `yarn start`
+yarn start
 ```
 
 ## Start the development server:
 
 ```shell
-yarn start # or `yarn start`
+yarn start
 ```
 
 ![Running Pokeqwik](preview.png)
